@@ -11,7 +11,7 @@
 构建出的文件在根目录dist
 
 ## 示例
-请浏览 [http://app.isaacxu.com/aria2](http://app.isaacxu.com/aria2)
+请浏览 [https://app.isaacxu.com/aria2](https://app.isaacxu.com/aria2)
 
 ## License
 [MIT](https://github.com/mayswind/AriaNg/blob/master/LICENSE)
