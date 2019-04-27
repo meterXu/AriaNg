@@ -8,7 +8,7 @@
 ##### 多功能版
     $ npm install
     $ gulp clean build-bundle
-构建出的文件在根目录dist
+构建出的文件在根目录dist中
 
 ## 示例
 请浏览 [https://app.isaacxu.com/aria2](https://app.isaacxu.com/aria2)
